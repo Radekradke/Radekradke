@@ -25,3 +25,5 @@ Aqui no meu GitHub você vai encontrar:
 ### 📫 Contato
 Se quiser falar comigo:
 - GitHub: https://github.com/Radekradke
+- Whatsapp: (21) 92018-2577
+- E-mail: andreradke09@gmail.com
