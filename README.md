@@ -1,16 +1,27 @@
-## Hi there 👋
+## 👋 Olá, eu sou o André
 
-<!--
-**Radekradke/Radekradke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou desenvolvedor web focado em criar sites funcionais, simples e bem organizados.
+Trabalho com projetos reais para clientes e também projetos pessoais para estudo
+e evolução constante.
 
-Here are some ideas to get you started:
+### 🚀 O que eu faço
+- Sites institucionais
+- Landing pages
+- Estruturação de projetos web
+- Ajustes e manutenção em sites existentes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Tecnologias
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+
+### 📂 Projetos
+Aqui no meu GitHub você vai encontrar:
+- Projetos feitos para clientes reais
+- Estudos e experimentos
+- Sites completos com deploy
+
+### 📫 Contato
+Se quiser falar comigo:
+- GitHub: https://github.com/Radekradke
