@@ -2,7 +2,7 @@
 
 # Olá, eu sou o André Gomes
 
-### Desenvolvedor Web em evolução, criando sites funcionais, organizados e com propósito.
+### Desenvolvedor Web focado em criar sites funcionais, organizados e com propósito.
 
 ![HTML5](https://img.shields.io/badge/HTML5-Estrutura-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
 ![CSS3](https://img.shields.io/badge/CSS3-Design-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
@@ -15,53 +15,50 @@
 
 ## Sobre Mim
 
-Sou desenvolvedor web com foco em criar sites simples, funcionais e bem organizados.
+Sou desenvolvedor web em evolução, com foco em criar sites simples, responsivos e bem estruturados.
 
-Gosto de transformar ideias em páginas reais, com atenção à estrutura, visual, responsividade e experiência de uso. Trabalho com projetos para clientes reais e também desenvolvo projetos pessoais para estudo, prática e evolução constante.
+Gosto de transformar ideias em projetos reais: sites institucionais, landing pages, catálogos digitais, sistemas internos e experiências web pensadas para resolver uma necessidade concreta.
+
+Tenho trabalhado tanto em projetos para clientes reais quanto em projetos pessoais, sempre buscando melhorar organização de código, visual, responsividade, experiência do usuário e clareza na apresentação.
 
 ---
 
 ## O Que Eu Faço
 
 - Sites institucionais
-- Landing pages
-- Portfólios pessoais
+- Landing pages comerciais
 - Catálogos digitais
+- Portfólios pessoais
+- Interfaces responsivas
 - Estruturação de projetos web
 - Ajustes e manutenção em sites existentes
-- Publicação de projetos com GitHub Pages e hospedagens web
+- Publicação de projetos com GitHub Pages e hospedagem web
 
 ---
 
 ## Tecnologias
 
-| Tecnologia | Uso |
+| Tecnologia | Como uso |
 | --- | --- |
-| **HTML** | Estrutura das páginas |
-| **CSS** | Layout, responsividade e identidade visual |
-| **JavaScript** | Interações e funcionalidades |
-| **Git & GitHub** | Versionamento e publicação de projetos |
+| **HTML** | Estrutura das páginas e organização do conteúdo |
+| **CSS** | Layout, responsividade, identidade visual e animações |
+| **JavaScript** | Interações, filtros, formulários, sacolas e fluxos dinâmicos |
+| **Git & GitHub** | Versionamento, organização e publicação dos projetos |
+| **React / TypeScript** | Projetos mais completos e sistemas com interface moderna |
+| **Node.js / Express** | APIs e integrações em projetos full stack |
+| **Prisma / PostgreSQL** | Modelagem e persistência de dados em sistemas internos |
 
 ---
 
-## Projetos
+## Projetos Em Destaque
 
-Aqui no meu GitHub você vai encontrar:
-
-- projetos feitos para clientes reais;
-- sites institucionais publicados;
-- landing pages comerciais;
-- catálogos digitais;
-- estudos e experimentos;
-- projetos pessoais em evolução.
-
-Alguns dos meus projetos principais são:
-
-- **PTL - Lifting Support**
-- **Voo Nobre**
-- **Juliana Biju**
-- **Easy Visa**
-- **Currículo Digital**
+| Projeto | Descrição | Tecnologias |
+| --- | --- | --- |
+| **PTL - Lifting Support** | Sistema interno de chamados para suporte técnico, com painel, portal do funcionário, dashboard e relatórios | React, TypeScript, Node.js, Express, Prisma, PostgreSQL |
+| **Voo Nobre** | Site institucional para agência de viagens, com foco em presença digital, confiança e geração de orçamento | HTML, CSS, JavaScript, PHP |
+| **Juliana Biju** | Mostruário digital com catálogo dinâmico, sacola e envio de pedido pelo WhatsApp | HTML, CSS, JavaScript, JSON |
+| **Easy Visa** | Landing page para consultoria de vistos, com fluxo de agendamento e estrutura para pagamento | HTML, CSS, JavaScript, Node.js, Stripe |
+| **Currículo Digital** | Portfólio pessoal com projetos, formação, competências e contato | HTML, CSS, JavaScript |
 
 ---
 
@@ -69,12 +66,24 @@ Alguns dos meus projetos principais são:
 
 Atualmente estou aprofundando meus estudos em:
 
-- desenvolvimento web;
 - JavaScript;
+- React;
+- TypeScript;
+- desenvolvimento web full stack;
 - UI/UX Design;
 - responsividade;
-- organização de código;
+- boas práticas de organização de código;
 - criação de interfaces mais profissionais.
+
+---
+
+## Um Pouco Do Meu Jeito De Construir
+
+Gosto de projetos que sejam bonitos, mas que principalmente façam sentido para quem usa.
+
+Procuro pensar no fluxo completo: o que a pessoa precisa ver primeiro, onde ela deve clicar, qual informação precisa estar clara e como deixar tudo simples sem parecer básico demais.
+
+Cada projeto aqui representa uma etapa da minha evolução, seja com clientes reais, estudos práticos ou sistemas mais completos.
 
 ---
 
@@ -83,6 +92,7 @@ Atualmente estou aprofundando meus estudos em:
 - GitHub: [github.com/Radekradke](https://github.com/Radekradke)
 - WhatsApp: [(21) 92018-2577](https://wa.me/5521920182577)
 - E-mail: [andreradke09@gmail.com](mailto:andreradke09@gmail.com)
+- Instagram: [@andre__radke](https://instagram.com/andre__radke)
 
 ---
 
